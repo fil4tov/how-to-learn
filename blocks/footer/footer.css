@@ -1,6 +1,6 @@
 .footer {
   padding: 60px 0 40px 0;
-  background-color: #1f1f1f;
+  background-color: var(--bg-dark);
   min-height: 350px;
   color: #fff;
   display: flex;

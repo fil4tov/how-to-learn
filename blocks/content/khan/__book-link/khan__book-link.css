@@ -1,10 +1,14 @@
-.header__link {
+.khan__book-link {
   text-decoration: none;
   color: var(--blue);
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
   opacity: 1;
   transition: var(--link-transition);
+  display: inline;
 }
 
-.header__link:hover {
+.khan__book-link:hover {
   opacity: var(--link-opacity);
 }

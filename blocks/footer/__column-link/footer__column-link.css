@@ -3,4 +3,10 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  opacity: 1;
+  transition: var(--link-transition);
+}
+
+.footer__column-link:hover {
+  opacity: var(--link-opacity);
 }
