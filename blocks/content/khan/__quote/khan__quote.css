@@ -5,3 +5,7 @@
   font-weight: normal;
   width: 790px;
 }
+
+.khan__quote p {
+  margin: 0;
+}
